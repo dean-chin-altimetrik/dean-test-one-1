@@ -9,7 +9,7 @@ metadata:
     - maven
   annotations:
     # github.com/project-slug: dean-chin-altimetrik/dean-test-one-1
-    # backstage.io/source-location: url:https://github.com/dean-chin-altimetrik/dean-test-one-1
+    backstage.io/source-location: url:https://github.com/dean-chin-altimetrik/dean-test-one-1
     backstage.io/techdocs-ref: "dir: ."
     devbox.io/enabled: "true"
 spec:
